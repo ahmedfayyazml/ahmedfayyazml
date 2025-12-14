@@ -53,9 +53,9 @@
 <h3 align="center">📊 Coding Activity</h3>
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfayyazml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" height="160" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 
 </div>
 
@@ -63,7 +63,7 @@
 <hr/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ahmedfyaz&label=Profile%20Views&color=7F5AF0&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ahmedfayyazml&label=Profile%20Views&color=7F5AF0&style=flat" alt="profile views" />
   <br/>
   <i>"I love solving problems through Competitive Coding."</i>
 </div>
