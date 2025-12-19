@@ -41,6 +41,7 @@
 | **DEV BOT CHAT BOT** | Assists you with your coding and development tasks  | `Flutter` `Gemini Api` |
 | **LangChain Ai Chat Bot** | LangChain Ai Chat Bot of Albert Enstein | `Python` `LangChain` `Gemini Api` |
 |**Weather App** | Weather App using Flutter and Weather Api| `Dart` `Flutter` `API` |
+|**-Webcam Motion Alert App** | Web Motion Alert App sends a pic of the customer that Enter the shop| `Python` `Cv2` `Emailing` |
 | **E-Commerce Eco** | A dual-interface system: Desktop Admin Panel + Seamless Mobile User App. | `Flutter` |
 | **COVID-19 Tracker** | Real-time global data visualization tracking the pandemic via 3rd party APIs. | `Flutter` `Live Data` |
 | **USA Club App** | Full member management, event scheduling, and announcements for a US-based client. | `Flutter` `REST API` |
