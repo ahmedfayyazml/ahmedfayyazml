@@ -44,7 +44,7 @@
 |**-Webcam Motion Alert App** | Web Motion Alert App sends a pic of the customer that Enter the shop| `Python` `Cv2` `Emailing` |
 | **E-Commerce Eco** | A dual-interface system: Desktop Admin Panel + Seamless Mobile User App. | `Flutter` |
 | **COVID-19 Tracker** | Real-time global data visualization tracking the pandemic via 3rd party APIs. | `Flutter` `Live Data` |
-| **USA Club Web App** | Full member management, event scheduling, and announcements for a US-based client. | `MERN`|
+| **Nstem Club Web App** | Full member management, event scheduling, and announcements for a US-based client. | `MERN`|
 | **Chat App** | High-performance messaging application integrated with Tencent UI Kit. | `Tencent SDK` |
 
 </div>
