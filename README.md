@@ -56,7 +56,7 @@
   
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedfayyazml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" height="180" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 
 </div>
 
