@@ -51,16 +51,11 @@
 
 <br/>
 
-<h3 align="center">📊 Coding Activity</h3><table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=ahmedfayyazml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" alt="stats graph" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="languages graph" />
-    </td>
-  </tr>
-</table>
+<h3 align="center">📊 Coding Activity</h3><table align="center"><div align="center">
+ <div>
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfayyazml&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+</div>
 
 <br/>
 <hr/>
