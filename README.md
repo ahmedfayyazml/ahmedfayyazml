@@ -16,7 +16,7 @@ I am a **Computer Science Student** at UCP with a passion for building software 
 I specialize in **Cross-Platform Mobile Development** using Flutter and am deeply exploring **Systems Programming** with Rust.
 
 - 🔭 **Working on:** A Pharmacy POS System & AI Chatbots.
-- 🐧 **Daily Driver:** Arch Linux (CachyOS) + Hyprland.
+- 🐧 **Daily Driver:** Arch Linux.
 - 🌱 **Learning:** German Language & Advanced Machine Learning.
 - ⚡ **Philosophy:** *"It's not a bug, it's an undocumented feature."*
 
