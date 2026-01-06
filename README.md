@@ -16,23 +16,23 @@
 <br/>
 
 - 🔭 I’m currently working on a **POS System for Pharmacy**
+- 🌐 **My Portfolio:** [ahmedfayyazml.github.io](https://ahmedfayyazml.github.io/ahmed-portfolio/)
 - 🌱 I’m currently learning **Rust & German**
 - 🎓 Studying Computer Science at **University of Central Punjab**
-- ⚡ Fun fact: I run **I use Arch Btw**
+- ⚡ Fun fact: I run **Arch Linux (CachyOS)** with Hyprland
 - 📫 How to reach me: **ahmedfayyaz.ml@gmail.com**
-- <a href "https://ahmedfayyazml.github.io/ahmed-portfolio/">**My Portfolio**</a>
 
 <br/>
 
 <p align="left">
+  <a href="https://ahmedfayyazml.github.io/ahmed-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="mailto:ahmedfayyaz.ml@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/yourprofile">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
