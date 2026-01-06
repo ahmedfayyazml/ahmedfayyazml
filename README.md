@@ -43,7 +43,7 @@ I specialize in **Cross-Platform Mobile Development** using Flutter and am deepl
 | :--- | :--- |
 | **📱 Mobile** | <img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio" /> |
 | **💻 Languages** | <img src="https://skillicons.dev/icons?i=python,rust,cpp,c,js,html,css" /> |
-| **🧠 AI & ML** | <img src="https://skillicons.dev/icons?i=pytorch,opencv,tensorflow,python" /> |
+| **🧠 AI & ML** | <img src="https://skillicons.dev/icons?i=sicketlearn,opencv,pandas,python" /> |
 | **⚙️ Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,firebase" /> |
 | **🗄️ Database** | <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" /> |
 | **🐧 Tools & OS** | <img src="https://skillicons.dev/icons?i=linux,arch,git,github,vscode,bash" /> |
