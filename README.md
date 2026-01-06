@@ -28,7 +28,7 @@ I specialize in **Cross-Platform Mobile Development** using Flutter and am deepl
 <a href="mailto:ahmedfayyaz.ml@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
 </a>
-<a href="https://linkedin.com/in/yourprofile">
+<a href="www.linkedin.com/in/ahmed-fayyaz-4b2654284">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
 </a>
 
