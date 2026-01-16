@@ -52,12 +52,6 @@ I specialize in **Cross-Platform Mobile Development** using Flutter and am deepl
 
 <br/>
 
-<h2 align="center">📈 GitHub Analytics</h2>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfayyazml&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=7F5AF0" height="160" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0" height="160" />
-</div>
 <br/>
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=ahmedfayyazml&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" width="100%" />
