@@ -73,10 +73,8 @@ I specialize in **Cross-Platform Mobile Development** using Flutter and am deepl
 | **[👥 Nstem Club](#)** | Web-based member management system for US Client. | `MERN` |
 
 </div>
-
 <br/>
 <hr/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ahmedfayyazml&label=Profile%20Views&color=7F5AF0&style=flat-square" alt="profile views" />
 </div>
