@@ -17,7 +17,7 @@ I specialize in **Cross-Platform Mobile Development** using Flutter and am deepl
 
 - 🔭 **Working on:** A Pharmacy POS System & AI Chatbots.
 - 🐧 **Daily Driver:** Arch Linux.
-- 🌱 **Learning:** Rust & Machine Learning.
+- 🌱 **Learning:** Rust & Cyber Security.
 - ⚡ **Philosophy:** *"It's not a bug, it's an undocumented feature."*
 
 <br/>
