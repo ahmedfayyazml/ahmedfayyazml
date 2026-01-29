@@ -67,7 +67,7 @@ I specialize in **Cross-Platform Mobile Development** using Flutter and am deepl
 | **[📰 News App](#)** | Global news aggregator with country-specific filtering. | `Flutter` `REST API` |
 | **[🤖 DevBot AI](#)** | Intelligent coding assistant powered by Gemini LLM. | `Flutter` `Gemini API` |
 | **[🧠 Einstein Bot](#)** | An AI Persona chatbot simulating Albert Einstein. | `Python` `LangChain` |
-| **[🌦️ Weather App](#)** | High-accuracy weather forecasting app. | `Dart` `GetX` |
+| **[🌦️ Weather App](#)** | High-accuracy weather forecasting app. | `Dart` `GetX`  |
 | **[📹 Motion Alert](#)** | Security system detects motion and emails snapshots. | `Python` `OpenCV` |
 | **[🛒 EcoShop](#)** | Complete E-Commerce ecosystem (Admin + Customer). | `Flutter` `Firebase` |
 | **[👥 Nstem Club](#)** | Web-based member management system for US Client. | `MERN` |
