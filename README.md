@@ -12,11 +12,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,30&height=300&section=header&text=Ahmed%20Fayyaz&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Flutter%20%E2%80%A2%20MERN%20%E2%80%A2%20Python%20%E2%80%A2%20Rust%20%7C%20CS%20%40%20UCP&descSize=22&descAlignY=62&descAlign=50&descColor=ffffff" width="100%" alt="header" />
 </div>
 
-<!-- Typing SVG -->
+<!-- Typing SVG — no emoji in lines param, no <a> wrapper (both cause rendering failures) -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=7F5AF0&center=true&vCenter=true&width=700&lines=🚀+Building+Scalable+Cross-Platform+Apps;🦀+Mastering+Rust+for+Systems+Programming;🤖+AI+%26+LLM+Integration+Specialist;🎓+CS+Student+%40+UCP+%7C+Class+of+2028;🐧+I+Use+Arch+Btw+%E2%80%94+And+I%27m+Proud+of+It." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=7F5AF0&center=true&vCenter=true&random=false&width=750&height=60&lines=Building+Scalable+Cross-Platform+Apps;Mastering+Rust+for+Systems+Programming;AI+%26+LLM+Integration+Specialist;CS+Student+%40+UCP+%7C+Class+of+2028;Cybersecurity+%26+Bug+Bounty+Explorer;I+Use+Arch+Btw" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -149,15 +147,15 @@ A passionate **Computer Science Student** at UCP building software that actually
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedfayyazml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=7F5AF0&text_color=CDD6F4&ring_color=7F5AF0" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedfayyazml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=7F5AF0&text_color=CDD6F4&ring_color=7F5AF0&cache_seconds=86400" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=CDD6F4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=CDD6F4&cache_seconds=86400" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=ahmedfayyazml&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F5AF0&ring=7F5AF0&fire=FF6B6B&currStreakLabel=7F5AF0&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4" />
+  <img src="https://streak-stats.demolab.com?user=ahmedfayyazml&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F5AF0&ring=7F5AF0&fire=FF6B6B&currStreakLabel=7F5AF0&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&border_radius=6" />
 </div>
 
 <br/>
@@ -174,7 +172,7 @@ A passionate **Computer Science Student** at UCP building software that actually
 <h2 align="center">🏆 Trophy Room</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfayyazml&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfayyazml&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" width="100%" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e4-90fc-0c1b04c8e00f.gif" width="100%" />
@@ -184,7 +182,7 @@ A passionate **Computer Science Student** at UCP building software that actually
      └─────────────────────────────────────────────────────────────┘ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30&height=70&text=🚀+Featured+Projects&fontSize=30&fontColor=ffffff&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20,30&height=70&text=Featured+Projects&fontSize=30&fontColor=ffffff&fontAlignY=65" width="100%" />
 </div>
 
 <br/>
