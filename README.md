@@ -146,7 +146,7 @@ A passionate **Computer Science Student** at UCP building software that actually
      └─────────────────────────────────────┘ -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<div align="center">
+<!--<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedfayyazml&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7F5AF0&icon_color=7F5AF0&text_color=CDD6F4&ring_color=7F5AF0&cache_seconds=86400" />
   &nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfayyazml&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7F5AF0&text_color=CDD6F4&cache_seconds=86400" />
@@ -158,7 +158,7 @@ A passionate **Computer Science Student** at UCP building software that actually
   <img src="https://streak-stats.demolab.com?user=ahmedfayyazml&theme=tokyonight&hide_border=true&background=0D1117&stroke=7F5AF0&ring=7F5AF0&fire=FF6B6B&currStreakLabel=7F5AF0&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&border_radius=6" />
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedfayyazml&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7F5AF0&line=7F5AF0&point=FF6B6B&area=true&area_color=7F5AF0" width="98%" />
@@ -168,14 +168,14 @@ A passionate **Computer Science Student** at UCP building software that actually
 
 <!-- ┌─────────────────────────────────────┐
      │            TROPHY ROOM              │
-     └─────────────────────────────────────┘ -->
+     └─────────────────────────────────────┘ 
 <h2 align="center">🏆 Trophy Room</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmedfayyazml&theme=tokyonight&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" width="100%" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e4-90fc-0c1b04c8e00f.gif" width="100%" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e4-90fc-0c1b04c8e00f.gif" width="100%" /> -->
 
 <!-- ┌─────────────────────────────────────────────────────────────┐
      │              FEATURED PROJECTS — 2-COLUMN CARD GRID        │
